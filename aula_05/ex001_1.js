@@ -19,8 +19,8 @@ var s3 = `Guanabara`
         Programador Alfabeto (a,b,c,d)
         Programador Contador (n1,n2,n3)
 */
-typeof n1
-typeof s1 // typeof mostra o tipo da variavel
-typeof true
-typeof NaN
-typeof function () {}
+console.log(typeof n1)
+console.log(typeof s1) // typeof mostra o tipo da variavel
+console.log(typeof true)
+console.log(typeof NaN)
+console.log(typeof function () {})
